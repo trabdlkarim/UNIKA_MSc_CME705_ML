@@ -1,2 +1,2 @@
 # Machine Learning Coursework
-UNIKA M.Sc. Computer Engineering Machine Learning - Fall 21-22
+This is a simple personal code pool for M.Sc. Computer Engineering Machine Learning (CME705) coursework from the University of Karabuk in Fall 21/22.
